@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marie and based in London.
 - 👀 I'm interested in all things Front End Development, especially React.
-- 🌱 I’m currently learning NodeJS, Express and PostgreSQL to make a new messaging app.
+- 🌱 I’m currently looking for a Junior React Developer role.
 - 📫 How to reach me ... marie20767@gmail.com
 
 <!---
