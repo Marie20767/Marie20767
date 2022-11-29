@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marie and based in London.
 - 👀 I'm interested in all things Front End Development, especially React.
-- 🌱 I’m currently looking for a Junior React Developer role.
+- 🌱 I’m currently looking for React Developer roles.
 - 📫 How to reach me ... marie20767@gmail.com
 
 <!---
