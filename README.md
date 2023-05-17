@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marie and based in the UK.
-- 👀 I'm interested in all things Front End & Full Stack Development, especially React.
-- 🌱 I’m currently looking for remote Front End Developer roles.
+- 👀 I'm interested in all things Full Stack Development.
+- 🌱 I enjoy working with React, GraphQL and Apollo.
 - 📫 How to reach me ... marie20767@gmail.com
 
 <!---
