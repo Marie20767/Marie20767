@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marie and based in the UK.
-- 👀 I'm interested in all things React & React Native.
+- 👀 I'm interested in all things React, React Native and Node.
 - 📫 How to reach me ... marie20767@gmail.com
 
 <!---
