@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marie and based in the UK.
-- 👀 I'm interested in all things Full Stack Development.
+- 👀 I'm interested in all things Full Stack Development (especially React & NodeJs)
 - 📫 How to reach me ... marie20767@gmail.com
 
 <!---
